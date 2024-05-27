@@ -26,10 +26,10 @@ Each article is crafted with the intent to simplify complex concepts and provide
 
 The main sources I use regularly to learn data science concepts include:
 
-1. [[Resource Link 1](https://www.youtube.com/@campusx-official)]
-2. [[Resource Link 2](https://www.youtube.com/@krishnaik06)]
-3. [[Resource Link 3](https://www.youtube.com/@campusx-official)]
-4. [[Resource Link 4](https://www.youtube.com/@professor-ryanahmed)]
+1. CampusX: [[Resource Link 1](https://www.youtube.com/@campusx-official)]
+2. Krish Naik: [[Resource Link 2](https://www.youtube.com/@krishnaik06)]
+3. StatQuest with Josh Starmer: [[Resource Link 3](https://www.youtube.com/@campusx-official)]
+4. Prof. Ryan Ahmed: [[Resource Link 4](https://www.youtube.com/@professor-ryanahmed)]
 
 I leverage ChatGPT to structure and refine the content of my articles.
 
@@ -41,4 +41,4 @@ Thank you for visiting my repository, and I hope you find these articles helpful
 
 ## Contact
 
-For any queries or discussions, you can connect with me on [[LinkedIn Profile](https://www.linkedin.com/in/bakht-singh/)].
+For any queries or discussions, you can connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/bakht-singh/)].
